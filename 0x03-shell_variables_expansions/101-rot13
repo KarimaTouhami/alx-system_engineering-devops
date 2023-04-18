@@ -1,0 +1,3 @@
+#!/bin/bash
+tr `echo {a..z} | tr -d ‘ ‘' `echo (n. .z) S(echo {a..m} | tr -d ‘ ‘' | tr `echo {A.
+$(echo {A..M}) I tr -d ‘ ‘'
