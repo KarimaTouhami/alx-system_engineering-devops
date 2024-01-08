@@ -48,8 +48,7 @@ Complete the 9 next tasks, getting to 27 total.
 
 ## Resources
 
-- [CMD CHALLENGE]([Title](https://cmdchallenge.com/))
-- [SFTP Guide](<[https://en.wikipedia.org/wiki/RSA_(cryptosystem%29](https://man.openbsd.org/sftp))>)
-- [SFTP File Transfer Tutorial
-]([https://stackoverflow.com/questions/3968095/how-does-https-provide-security](https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server))
+- [CMD CHALLENGE](https://cmdchallenge.com/)
+- [SFTP Guide](https://man.openbsd.org/sftp)
+- [SFTP File Transfer Tutorial](https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server)
 
