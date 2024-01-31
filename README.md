@@ -1,10 +1,6 @@
 # 0x00 ALX System Engineering and DevOps 💥
 
->Learning bash, scripting, networking and web infra right now, been wanting to get on this. It's going to be FUN !!.
-
-## About
-
-- This repository consists of all the .Subject projects done with [ALX Africa](https://www.alxafrica.com/) Full stack Software Engineering course in partnership with [Holberton School](https://www.holbertonschool.com/).
+This repository contains programs written for the system engineering and DevOps track at 'ALX Africa SE'. In these projects, we worked with Bash and practiced writing Bash scripts to automate tasks. We learned about the OSI model and various Linux networking tools. The specific list of projects contained follows:
 
 ---
 
