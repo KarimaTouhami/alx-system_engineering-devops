@@ -2,8 +2,6 @@
 
 This repository contains programs written for the system engineering and DevOps track at 'ALX Africa SE'. In these projects, we worked with Bash and practiced writing Bash scripts to automate tasks. We learned about the OSI model and various Linux networking tools. The specific list of projects contained follows:
 
----
-
 - [0x00](./0x00-shell_basics) : Writing basic bash scripts that perform basic stuff.
 - [0x01](./0x01-shell_permissions) : Linux permissions.
 - [0x02](./0x02-shell_redirections) : Shell, I/O Redirections and filters.
