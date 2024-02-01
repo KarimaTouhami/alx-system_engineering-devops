@@ -10,6 +10,7 @@ This repository contains programs written for the system engineering and DevOps 
 - [0x05](./0x05-processes_and_signals) : Processes and signals.
 - [0x06](./0x06-regular_expressions) : Regular expression.
 - [0x07](./0x07-networking_basics) : Networking basics #0.
+- [0x08](./0x08-networking_basics_2) : Networking basics #1.
 - [command line for the win](./command_line_for_the_win/).
 
 ## Author✍️
