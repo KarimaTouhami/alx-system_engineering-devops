@@ -15,4 +15,4 @@ Obviously writing Puppet code for your infrastructure requires an investment of 
 
 <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/292/4i8il3B.gif">
 
-<p>That was him ^_^‘: <a>https://twitter.com/devopsreact/status/836971570136375296</a><p>
+<p>That was him ^_^‘: <a href="https://twitter.com/devopsreact/status/836971570136375296">Twitter</a><p>
