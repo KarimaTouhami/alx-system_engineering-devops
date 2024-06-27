@@ -1,10 +1,9 @@
-# instal the_sky_is_the_limit_no
-exec { 'update ulimit':
-  command  => "sed -i 's/^ULIMIT=.*/ULIMIT=\"-n 15000\"/' /etc/default/nginx",
-  provider => 'shell',
+# Puppet script to fix overloading requests on a nginx server
+
+exec { 'sed -rine "s/^(ULIMIT=\"-n )[0-9]+\"/\1 4096\"/" /etc/default/nginx':
+  path  =>  ['/usr/bin', '/usr/sbin', '/bin/',],
 }
 
--> exec { 'restart':
-  command  => 'service nginx restart',
-  provider => 'shell',
+exec { 'service nginx restart':
+  path  =>  ['/usr/bin', '/usr/sbin', '/bin/',],
 }
